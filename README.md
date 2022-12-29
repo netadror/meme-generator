@@ -1,4 +1,4 @@
-A simply API, react-based meme generator.
+A simple API, react-based meme generator.
 
 This project slso uses htmlToImage download.js
 
