@@ -1,9 +1,8 @@
 
 import React from "react"
-import bear from '../images/bear.svg';
+import bear from '../images/logo192.png';
 import * as htmlToImage from 'html-to-image';
 import download from 'downloadjs';
-
 
 function Generator() {
 
@@ -58,6 +57,7 @@ function Generator() {
                 </div>
                 <div className="gen-text">
                     <h1>Meme Generator</h1>
+                    <h4>A simple React app</h4>
                 </div>
             </header>
             <section className='Generator-body'>

@@ -2,7 +2,7 @@
 function Footer() {
     return (
         <div className="Footer">
-            <p>2023</p>
+            <p>Made by <a href="https://github.com/netadror/meme-generator">Neta Dror</a> 2023</p>
         </div>
     );
 }
